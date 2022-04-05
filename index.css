@@ -32,7 +32,7 @@ ul {
 }
 
 a {
-    color: azure;
+    color: rgb(255, 240, 240);
     text-decoration: none;
 }
 
@@ -59,11 +59,6 @@ footer div img {
     background: white;
 }
 
-footer div {
-    
-    
-}
-
 footer {
     font-size: 12px;
     display: flex;
@@ -82,5 +77,5 @@ footer p {
 }
 
 nav a:hover {
-    color: green;
+    color: rgb(32,178,170);
 }
